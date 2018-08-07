@@ -1,2 +1,2 @@
 # goutils
-goutils to mobile app
+goutils for mobile app
