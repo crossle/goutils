@@ -1,7 +1,7 @@
 package goutils
 
 import (
-	"github.com/satori/go.uuid"
+	"github.com/gofrs/uuid"
 )
 
 func UuidFromBytes(input []byte) (string, error) {
